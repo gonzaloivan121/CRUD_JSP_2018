@@ -18,21 +18,38 @@ Aquí dejo capturas de pantalla de las diferentes páginas de la web.
 
 ### Inicio
 
-<img src="screenshots/inicio.png" width="650px">
+<img src="screenshots/inicio.png" width="750px">
 
 Decidí usar unos colores estilo Material Design.  
 
 
 ### Instrumentos
 
-<img src="screenshots/instrumentos.png" width="650px">  
+<img src="screenshots/instrumentos.png" width="750px">  
 
 
 ### Fabricantes
 
-<img src="screenshots/fabricantes.png" width="650px">  
+<img src="screenshots/fabricantes.png" width="750px">  
 
 
 ### Proveedores
 
-<img src="screenshots/proveedores.png" width="650px">  
+<img src="screenshots/proveedores.png" width="750px">  
+
+
+## Funcionalidades
+
+```
+Ahora vamos a ver las funcionalidades
+```
+
+
+### Editar / Actualizar
+
+<img src="screenshots/editar.png" width="750px">  
+
+
+### Borrar / Añadir / Mostrar
+
+<img src="screenshots/proveedores.png" width="750px">  
