@@ -4,7 +4,8 @@ Este ejercicio en JSP y MySQL será sobre una tienda de música (Guitarras, Bajo
 
 ## Descripción
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+He usado el framework CSS Bootstrap que ha dado estilo a la web basada en JSP y base de datos en MySQL.
+He decidido hacerlo sobre música porque es lo que más me gusta
 
 ### Prerequisites
 
