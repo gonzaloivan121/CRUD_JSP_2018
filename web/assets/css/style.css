@@ -1,0 +1,139 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-mar-2018, 9:06:19
+    Author     : mrhighway98
+*/
+
+body {
+  background-color: #64b3c0;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #206571 !important;
+  min-height: 30px !important;
+}
+
+.navbar-inverse .navbar-nav > li > a,
+.navbar-inverse .navbar-brand {
+    color: #c5c5c5 !important;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-brand:hover {
+    color: #ffffff !important;
+}
+/* NAVBAR */
+
+
+/* SLIDER */
+.slide {
+  border-bottom: 1px solid black;
+}
+/* SLIDER */
+
+
+/* CONTENIDO */
+.contenedor {
+  padding-bottom: 250px !important;
+  background-color: #64b3c0 !important;
+}
+
+.container-fluid {
+  padding: 0px 70px 0px 70px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.caja {
+  background-color: #8bc6d0;
+  padding: 1px 30px 5px 30px;
+}
+
+.caja h3 {
+  text-align: center;
+}
+
+.caja p {
+  text-align: justify;
+}
+
+.separator {
+  width: 50px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border-top: 1px solid #848484;
+}
+
+.form-izquierda {
+  float: left !important;
+  width: 50% !important;
+}
+
+.form-derecha {
+  float: left !important;
+  width: 50% !important;
+}
+
+.anadir {
+  width: 96.5%;
+  margin: 0 auto;
+}
+/* CONTENIDO */
+
+/* FOOTER */
+
+footer {
+  z-index: 10000;
+  -moz-box-shadow: 13px 13px 10px 11px #FFFFFF;
+    -webkit-box-shadow: 13px 13px 10px 11px #FFFFFF;
+    box-shadow: 13px 13px 10px 11px #FFFFFF;
+}
+
+footer.page-footer {
+  bottom: 0;
+  color: #ffffff;
+}
+
+footer.page-footer .container-fluid {
+    width: auto;
+}
+
+footer.page-footer .footer-copyright {
+    overflow: hidden;
+    background-color: #206571;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    padding: 15px 0px 15px 0px;
+    border-top: 1px solid black;
+}
+
+footer.page-footer a {
+  color: #ffffff;
+}
+
+.font-small {
+  font-size: 14px;
+}
+
+.footer-wrapper {
+  background-color: #64b3c0;
+}
+
+.fixed-bottom {
+  position: fixed;
+  height: 200px;
+  bottom: 0;
+  width: 100%;
+  
+}
+
+
+
+/* {} */
