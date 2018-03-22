@@ -1,88 +1,55 @@
 # CRUD_JSP_2018
 
-Este ejercicio en JSP y MySQL será sobre una tienda de música (Guitarras, Bajos y Baterías)
+Este ejercicio en JSP y MySQL será sobre una tienda de música (Guitarras, Bajos y Baterías).  
+
 
 ## Descripción
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+He usado el framework CSS Bootstrap que ha dado estilo a la web basada en JSP y base de datos en MySQL.
+He decidido hacerlo sobre música porque es lo que más me gusta.  
 
-### Prerequisites
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+## Páginas
 
-### Installing
+Aquí dejo capturas de pantalla de las diferentes páginas de la web.  
 
-A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
 
-```
-Give the example
-```
+### Inicio
 
-And repeat
+<img src="screenshots/inicio.png" width="750px">
 
-```
-until finished
-```
+Decidí usar unos colores estilo Material Design.  
 
-End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+### Instrumentos
 
-Explain how to run the automated tests for this system
+<img src="screenshots/instrumentos.png" width="750px">  
 
-### Break down into end to end tests
 
-Explain what these tests test and why
+### Fabricantes
 
-```
-Give an example
-```
+<img src="screenshots/fabricantes.png" width="750px">  
 
-### And coding style tests
 
-Explain what these tests test and why
+### Proveedores
+
+<img src="screenshots/proveedores.png" width="750px">  
+
+
+## Funcionalidades
 
 ```
-Give an example
+Ahora vamos a ver las funcionalidades
 ```
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
+### Editar / Actualizar
 
-## Built With
+<img src="screenshots/editar.png" width="750px">  
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+### Borrar / Añadir / Mostrar
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
+<img src="screenshots/proveedores.png" width="750px">  
