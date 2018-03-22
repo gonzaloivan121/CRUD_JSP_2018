@@ -20,12 +20,16 @@ body {
 
 .navbar-inverse .navbar-nav > li > a,
 .navbar-inverse .navbar-brand {
-    color: #c5c5c5 !important;
+    color: #ffffff !important;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-brand:hover {
-    color: #ffffff !important;
+    color: #c5c5c5 !important;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  text-transform: uppercase;
 }
 /* NAVBAR */
 
@@ -85,6 +89,11 @@ h1 {
   width: 96.5%;
   margin: 0 auto;
 }
+
+.table tbody tr td {
+    padding: 5px !important;
+    vertical-align: middle !important;
+}
 /* CONTENIDO */
 
 /* FOOTER */
@@ -116,6 +125,10 @@ footer.page-footer .footer-copyright {
 
 footer.page-footer a {
   color: #ffffff;
+}
+
+footer.page-footer a:hover {
+  color: #c5c5c5;
 }
 
 .font-small {
